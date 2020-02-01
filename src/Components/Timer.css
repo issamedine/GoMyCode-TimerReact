@@ -1,0 +1,21 @@
+.wrapper-timer {
+    width: 30%;
+    margin: 5% auto;
+}
+.segments {
+    font-size: 7rem;
+}
+.actions button {
+    margin: 30px 13px;
+    border: none;
+    border-radius: 4px;
+    padding: 15px 40px;
+    color: #ffffff;
+    background-color: #11146d;
+    cursor: pointer;
+    font-size: 15px;
+}
+.actions button:hover {
+    background-color: #242897;
+    transition: 0.5s all;
+}
